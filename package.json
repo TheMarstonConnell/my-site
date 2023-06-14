@@ -2,7 +2,7 @@
   "name": "personal-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "marstonconnell.xyz",
+  "homepage": "marston.dev",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
